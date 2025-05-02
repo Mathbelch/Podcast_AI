@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/SC-Ep_1 (1)" controls title="Podcast editado"></audio>
+    <audio src="output/outputAudio" controls title="Podcast editado"></audio>
 </div>
 <br><br>
 <p align="center">
